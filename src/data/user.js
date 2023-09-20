@@ -9,4 +9,6 @@ const user = {
   },
 };
 
+export const name = 'Liza';
+export const city = 'New York';
 export default user;
